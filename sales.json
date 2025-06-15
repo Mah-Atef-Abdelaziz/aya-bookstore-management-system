@@ -1,0 +1,101 @@
+[
+    {
+        "product_name": "كتاب الرياضيات",
+        "quantity_sold": 5,
+        "sale_price": 75.0,
+        "purchase_price": 50.0,
+        "total_amount": 375.0,
+        "profit": 125.0,
+        "date": "2023-06-25 09:15:30"
+    },
+    {
+        "product_name": "قلم رصاص",
+        "quantity_sold": 20,
+        "sale_price": 5.0,
+        "purchase_price": 2.0,
+        "total_amount": 100.0,
+        "profit": 60.0,
+        "date": "2023-06-25 10:30:45"
+    },
+    {
+        "product_name": "دفتر ملاحظات",
+        "quantity_sold": 8,
+        "sale_price": 18.0,
+        "purchase_price": 10.0,
+        "total_amount": 144.0,
+        "profit": 64.0,
+        "date": "2023-06-26 11:20:15"
+    },
+    {
+        "product_name": "آلة حاسبة",
+        "quantity_sold": 3,
+        "sale_price": 60.0,
+        "purchase_price": 35.0,
+        "total_amount": 180.0,
+        "profit": 75.0,
+        "date": "2023-06-26 14:45:50"
+    },
+    {
+        "product_name": "حقيبة مدرسية",
+        "quantity_sold": 5,
+        "sale_price": 180.0,
+        "purchase_price": 120.0,
+        "total_amount": 900.0,
+        "profit": 300.0,
+        "date": "2023-06-27 09:30:20"
+    },
+    {
+        "product_name": "ألوان خشبية",
+        "quantity_sold": 7,
+        "sale_price": 25.0,
+        "purchase_price": 15.0,
+        "total_amount": 175.0,
+        "profit": 70.0,
+        "date": "2023-06-27 13:10:35"
+    },
+    {
+        "product_name": "كراسة رسم",
+        "quantity_sold": 10,
+        "sale_price": 15.0,
+        "purchase_price": 8.0,
+        "total_amount": 150.0,
+        "profit": 70.0,
+        "date": "2023-06-28 10:25:40"
+    },
+    {
+        "product_name": "مقص",
+        "quantity_sold": 6,
+        "sale_price": 12.0,
+        "purchase_price": 5.0,
+        "total_amount": 72.0,
+        "profit": 42.0,
+        "date": "2023-06-28 15:50:55"
+    },
+    {
+        "product_name": "لاصق",
+        "quantity_sold": 15,
+        "sale_price": 8.0,
+        "purchase_price": 4.0,
+        "total_amount": 120.0,
+        "profit": 60.0,
+        "date": "2023-06-29 11:35:25"
+    },
+    {
+        "product_name": "كتاب الرياضيات",
+        "quantity_sold": 3,
+        "sale_price": 75.0,
+        "purchase_price": 50.0,
+        "total_amount": 225.0,
+        "profit": 75.0,
+        "date": "2023-06-29 16:40:10"
+    },
+    {
+        "product_name": "آلة حاسبة",
+        "quantity_sold": 11,
+        "sale_price": 60.0,
+        "purchase_price": 35.0,
+        "total_amount": 660.0,
+        "profit": 275.0,
+        "date": "2025-06-15 00:18:10"
+    }
+]

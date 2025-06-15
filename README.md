@@ -1,6 +1,3 @@
-# aya-bookstore-management-system
-A simple desktop app for managing a bookstore and stationery shop. Features include inventory control, sales tracking, profit calculation, low stock alerts, and visual reports. Built with Python, Tkinter, and SQLite. Interface in Arabic.
-___________________________________
 # نظام إدارة مكتبة ألاء
 
 نظام إدارة مكتبة ألاء هو تطبيق سطح مكتب مصمم لإدارة المخزون والمبيعات بواجهة عربية سهلة الاستخدام.

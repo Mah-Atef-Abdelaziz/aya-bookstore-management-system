@@ -1,0 +1,5 @@
+ttkbootstrap
+Pillow
+matplotlib
+arabic-reshaper
+python-bidi
